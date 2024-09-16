@@ -1,0 +1,99 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "heading": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Together"
+            }
+          }
+        ]
+      },
+      "subheading": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Tempor et cupidatat enim dolore sit reprehenderit sint deserunt enim proident eu esse voluptate exercitation."
+            }
+          }
+        ]
+      },
+      "body": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Anim ullamco non est anim ad pariatur eu in pariatur officia reprehenderit officia. Voluptate tempor cillum duis magna nostrud id tempor voluptate."
+            }
+          }
+        ]
+      },
+      "button_text": {
+        "__TYPE__": "FieldContent",
+        "value": "pass",
+        "type": "Text"
+      },
+      "button_link": {
+        "__TYPE__": "LinkContent",
+        "value": {
+          "__TYPE__": "ExternalLink",
+          "url": "http://google.com"
+        }
+      },
+      "cans_image": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea",
+          "width": 3500,
+          "height": 2338
+        },
+        "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea",
+        "width": 3500,
+        "height": 2338,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      },
+      "second_heading": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Anywhere"
+            }
+          }
+        ]
+      },
+      "second_body": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Deserunt irure fugiat eu officia. Nisi aliqua excepteur est cillum laboris mollit voluptate do aliqua elit reprehenderit nisi. In sunt veniam veniam cillum labore minim nisi ullamco anim nisi consequat elit non."
+            }
+          }
+        ]
+      }
+    },
+    "items": []
+  }
+]
